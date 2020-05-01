@@ -6,7 +6,7 @@
 
 It is a combination of logbook, documentation and specification system.
 
-![drawing](/spec/templates/images/7P-Lifecycle.png)
+![drawing](/template/images/7P-Lifecycle.png)
 
 ## Lifecycle in the evolution of specifications
 From the perspective of engineering, it is important to evolve a specification throughout the scope of work, offer an "entry point" for stakeholders to participate and review the state of the work and prepare documentation of the project.
