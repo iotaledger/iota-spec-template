@@ -1,12 +1,10 @@
-# WIP
-
 # How to understand the 7PEC Lifecycle
 
 7PEC is a formalized approach that seeks to follow the needs of software developement and business development, in order to enhance community involvement and pave the way for potential standardisation.
 
 It is a combination of logbook, documentation and specification system.
 
-![drawing](/template/images/7P-Lifecycle.png)
+![drawing](/spec/template/images/7P-Lifecycle.png)
 
 ## Lifecycle in the evolution of specifications
 From the perspective of engineering, it is important to evolve a specification throughout the scope of work, offer an "entry point" for stakeholders to participate and review the state of the work and prepare documentation of the project.
@@ -53,7 +51,11 @@ Preparing for the Production phase brings all the stakeholders together and is a
 The schema must be finalized, reqeuirements validated
 
 ### Production
+
+
 When the Product is `@stable` it means that there is a very strict contract between the contributors to the product and the consumers of the product.
+
+
 
 ### dePrecation
 The deprecation stage of a Product means that it (or one of its constituent parts) will be deprecated at a point in the future.
@@ -117,7 +119,3 @@ The structural model shows how the parts of the product fit together and exist i
 The behavioral model explains how the system behaves at runtime.
 
 /// RTF / FTF
-
-// Docs listing
-
-// Response to RFP

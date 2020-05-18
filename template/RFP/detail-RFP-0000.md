@@ -1,4 +1,4 @@
-# Detail: Request For Proposal (RFP)
+# Detail: Request For Proposals (RFP)
 [RFP]: #RFP
 
 ## Frontmatter
@@ -9,86 +9,37 @@ Maintainer: Name
 updated: YYYY-MMM-DD
 ```
 
+<!--
+A Request For Proposals is an open question that seeks to focus research and development in the prealpha phase
+and is based on needs defined in the Project Scope document.
+-->
+
 ## Summary
 [summary]: #summary
+<!--
+Summarise in 3-5 sentences in normal English what it is that proposals in this context should address.
+-->
 
 ## Requirements
 [requirements]: #requirements
+<!--
+This is an overview of the business requirements that proposals MUST address if more detail is needed than presented in the SCOPE document.
+-->
 
 ## Considerations
 [considerations]: #considerations
-
-### Alternatives Considered
-[alternatives]: #alternatives
-
-List of other approaches.
-
-### Performance Implications
-[performance]: #performance
-
-Honest analysis of performance implications.
-
-### Dependencies
-[dependencies]: #dependencies
-
-New dependencies introduced.
-
-### Engineering Impact
-[engineering-impact]: #engineering-impact
-- How will engineering be impacted?
-- Are there other projects that need to be adapted?
-
-### Platforms and Environments
-[platforms]: #platforms
-
-What platforms and environments will this address?
-
-### Security Impact
-[security]: #security
-
-Are there any known impacts (positive or negative) regarding the security posture?
-
-### Tutorials
-[tutorials]: #tutorials
-
-Are there tutorials that help illustrate this?
-
-### Examples
-[examples]: #examples
-
-Are there examples of this in the wild?
-
-### Compatibility
-[compatibility]: #compatibility
-
-Are there compatibility concerns?
+<!--
+This section can be used if there are known considerations that need to be taken into account and which the actual proposals SHOULD resolve.
+-->
 
 ## Technical Proposal
 [technical-proposal]: #technical-proposal
-Introduce and explain the technical proposal
-
-### Reference-level explanation
-[reference-level-explanation]: #reference-level-explanation
-
-This is the technical portion of the RFC. Explain the design in sufficient detail that:
-
-- Its interaction with other features is clear.
-- It is reasonably clear how the feature would be implemented.
-- Corner cases are dissected by example.
-
-The section should return to the examples given in the previous section, and explain more fully how the detailed proposal makes those examples work.
-
-### Drawbacks
-[drawbacks]: #drawbacks
-
-Why should we *not* do this?
-
-## Rationale and alternatives
-[rationale-and-alternatives]: #rationale-and-alternatives
-
-- Why is this design the best in the space of possible designs?
-- What other designs have been considered and what is the rationale for not choosing them?
-- What is the impact of not doing this?
+<!--
+Introduce and explain the technical proposals that are being requested, detailing specifically the individual proposals required.
+-->
 
 ## Research
 [research]: #research
+<!--
+Please collect all relevant research links to repositories, issues and papers
+-->
