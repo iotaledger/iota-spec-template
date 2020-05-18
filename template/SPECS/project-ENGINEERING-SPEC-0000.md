@@ -1,5 +1,5 @@
-# Engineering Implementation Specification
-[implementation-spec]: #implementation-spec
+# Engineering Specification
+[engineering-spec]: #engineering-spec
 
 ## Frontmatter
 [frontmatter]: #frontmatter
@@ -7,7 +7,7 @@
 ```yaml
 title: Project
 stub: project
-document: Implementation Spec
+document: Engineering Spec
 version: 0000
 status: 0
 maintainer: Firstname Lastname <email@address.tld>
@@ -18,7 +18,7 @@ updated: YYYY-MMM-DD
 ```
 
 <!--
-Implementation Specifications inform developers about the exact shape of
+Engineering Specifications inform developers about the exact shape of
 the way the piece of software was built, using paradigms relevant to the
 programming language that this project has been built with. The document
 seeks to describe in exacting detail "how it works". It describes a
@@ -34,6 +34,13 @@ Behavioral and Structural Requirements Specifications.
 [summary]: #summary
 <!--
 Short summary of this document.
+-->
+
+## Logical System Design
+[system-design]: #system-design
+<!--
+Please describe all of the current components of the system from a logical
+perspective.
 -->
 
 ## Programming Language

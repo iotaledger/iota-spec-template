@@ -1,5 +1,5 @@
-# Behavioral Requirements Specification
-[behavioralspec]: #behavioralspec
+# Requirements Specification
+[requirements]: #requirements
 
 ## Frontmatter
 [frontmatter]: #frontmatter
@@ -7,7 +7,7 @@
 ```yaml
 title: Project
 stub: project
-document: Behavioral Requirements Spec
+document: Requirements Specification
 version: 0000
 status: 0
 maintainer: Firstname Lastname <email@address.tld>
@@ -18,8 +18,8 @@ updated: YYYY-MMM-DD
 ```
 
 <!--
-Behavioral requirements inform stakeholders and external parties about the code and
-infrastructure; "what it does and why it does it".
+A Requirements Specificaion informs stakeholders and external parties about the code
+and infrastructure; "what it does and why it does it".
 
 The language in which this document is framed shall be the language of the intended
 user of the product (NOT the user of the spec to design the product, but the
@@ -44,6 +44,14 @@ Guidelines for Requirements:
 [summary]: #summary
 <!--
 Short summary of this document.
+-->
+
+## Components
+[components]: #components
+<!--
+Please describe the logical components of the system.  the data and what things mean.
+It models database schemas, data structure, etc. at the logical level,
+and physical database schemas and message schemas at the physical level.
 -->
 
 ## Functional Requirements
@@ -88,3 +96,4 @@ In many cases, spec-compliant implementations will do well to have a list of
 important tests that should be run (unit, integration, e2e, smoke, etc.) This is
 where such tests should be clearly explained.
 -->
+
