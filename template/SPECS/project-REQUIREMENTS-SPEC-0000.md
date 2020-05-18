@@ -18,7 +18,7 @@ updated: YYYY-MMM-DD
 ```
 
 <!--
-A Requirements Specificaion informs stakeholders and external parties about the code
+A Requirements Specification informs stakeholders and external parties about the code
 and infrastructure; "what it does and why it does it".
 
 The language in which this document is framed shall be the language of the intended
@@ -96,4 +96,3 @@ In many cases, spec-compliant implementations will do well to have a list of
 important tests that should be run (unit, integration, e2e, smoke, etc.) This is
 where such tests should be clearly explained.
 -->
-
