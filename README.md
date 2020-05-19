@@ -78,7 +78,7 @@ The detailing of Engineering Specs can vary from project to project (and underly
 
 - Introduction
 - Implementation Details
-  - Naming Conventsion
+  - Naming Convension
   - Programming language(s)
 - Constituent parts overview
   - Schemas
