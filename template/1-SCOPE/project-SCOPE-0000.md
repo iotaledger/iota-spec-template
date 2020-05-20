@@ -6,7 +6,8 @@
 ```yaml
 title: Project
 stub: project
-status: 0
+document: SCOPE
+version: 0000
 maintainer: Firstname Lastname <email@address.tld>
 contributors: [Firstname Lastname <email@address.tld>]
 sponsor: Firstname Lastname <email@address.tld>
@@ -63,10 +64,9 @@ Talk about the business reasons for the product's existence, what it is for and 
 
 ## Stakeholders
 [stakeholders]: #stakeholders
-
 <!--
+- Who are the stakeholders?
 - How has the community been involved?
-- How
 -->
 
 ## Guide-level explanation

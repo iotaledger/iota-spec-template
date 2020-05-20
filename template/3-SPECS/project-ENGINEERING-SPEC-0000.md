@@ -7,13 +7,12 @@
 ```yaml
 title: Project
 stub: project
-document: Engineering Spec
+document: Engineering Specification
 version: 0000
-status: 0
 maintainer: Firstname Lastname <email@address.tld>
 contributors: [Firstname Lastname <email@address.tld>]
 sponsor: Firstname Lastname <email@address.tld>
-licenses: ["License 1", "License 2"]
+licenses: ["License X", "License Y"]
 updated: YYYY-MMM-DD
 ```
 
@@ -55,13 +54,20 @@ Please describe the language, minimal version and any other details necessary.
 Please describe the language, minimal version and any other details necessary.
 -->
 
+## Schema
+[schema]: #schema
+<!--
+If appropriate, please add the schema here.
+-->
+
 ## Functional API
+[api]: #api
 <!--
 Please use the structural needs of the language used. This may be entirely
 generated from code / code comments but must always be kept up to date as
 the project grows.
 
-Minimal requirements for functions:
+Requirements for functions:
 - function name
 - parameters with:
   - handle

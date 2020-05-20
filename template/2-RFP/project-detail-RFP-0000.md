@@ -4,8 +4,14 @@
 ## Frontmatter
 [frontmatter]: #frontmatter
 ```yaml
-RFP: detail-RFP-0000
-Maintainer: Name
+title: Project
+stub: project
+document: RFP
+version: 0000
+maintainer: Firstname Lastname <email@address.tld>
+contributors: [Firstname Lastname <email@address.tld>]
+sponsor: Firstname Lastname <email@address.tld>
+licenses: ["License X", "License Y"]
 updated: YYYY-MMM-DD
 ```
 

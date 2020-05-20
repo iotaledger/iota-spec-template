@@ -1,11 +1,17 @@
-# Detail: Proposal to Request (PTR)
+# Proposal to Request (PTR)
 [PTR]: #PTR
 
 ## Frontmatter
 [frontmatter]: #frontmatter
 ```yaml
-Refers to RFP: detail-RFP-0000
-Maintainer: Name
+title: Project
+stub: project
+document: PTR
+version: 0000
+maintainer: Firstname Lastname <email@address.tld>
+contributors: [Firstname Lastname <email@address.tld>]
+sponsor: Firstname Lastname <email@address.tld>
+licenses: ["License X", "License Y"]
 updated: YYYY-MMM-DD
 ```
 
@@ -37,6 +43,7 @@ List of other approaches.
 <!--
 Honest analysis of performance implications.
 -->
+
 ### Dependencies
 [dependencies]: #dependencies
 <!--

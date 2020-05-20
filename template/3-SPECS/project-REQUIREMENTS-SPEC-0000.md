@@ -9,11 +9,10 @@ title: Project
 stub: project
 document: Requirements Specification
 version: 0000
-status: 0
 maintainer: Firstname Lastname <email@address.tld>
 contributors: [Firstname Lastname <email@address.tld>]
 sponsor: Firstname Lastname <email@address.tld>
-licenses: ["License 1", "License 2"]
+licenses: ["License X", "License Y"]
 updated: YYYY-MMM-DD
 ```
 
@@ -75,7 +74,7 @@ This is the section where functional requirements must be described in Outline f
 
 <!--
 Where applicable, sequence diagrams should be used to explain the complexity of the business
-logic that the solution seeks to resolve.
+logic that the solution seeks to resolve. They should be images and stored in this
 -->
 
 ## Job story examples
@@ -94,5 +93,5 @@ When ＿＿＿ , I want to ＿＿＿, so I can ＿＿＿.
 <!--
 In many cases, spec-compliant implementations will do well to have a list of
 important tests that should be run (unit, integration, e2e, smoke, etc.) This is
-where such tests should be clearly explained.
+where such tests should be clearly explained and required - if necessary.
 -->
