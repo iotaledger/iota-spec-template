@@ -21,7 +21,6 @@ This process described below shows the evolution of the specifications describin
 We recommend installing the [drawio extension for VS Code](https://github.com/hediet/vscode-drawio.git). It allows you to edit the diagrams in VS Code, and export them to your repository. Maintaining versions inline with the current state of the specifications.
 
 ### mdbook
-
 > Todo: Finalize gh action for creating a mdbook and publishing it. [This workflow from Bee](https://github.com/iotaledger/bee-rfcs/blob/master/.github/workflows/gh-rfcs-mdbook.yml) is a good start, but needs adaptation to 7PEC. It requires a `gh-pages`  branch and there has to be a deployment key on the repo admin panel.
 
 ### Bill of Materials

@@ -3,7 +3,6 @@
 
 ## Frontmatter
 [frontmatter]: #frontmatter
-
 ```yaml
 title: Project
 stub: project

@@ -16,7 +16,7 @@ updated: YYYY-MMM-DD
 ```
 
 <!--
-A Proposal to Request is an answer to a Request For Proposals that
+A Proposal to Request is an answer to a Request For Proposals.
 -->
 
 ## Summary

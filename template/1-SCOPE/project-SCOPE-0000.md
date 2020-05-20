@@ -30,6 +30,7 @@ Do not change this section.
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
 ## Versioning
+[versioning]: #versioning
 <!--
 Do not change this section.
 -->

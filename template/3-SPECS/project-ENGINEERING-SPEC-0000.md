@@ -51,7 +51,7 @@ Please describe the language, minimal version and any other details necessary.
 ## Environment
 [environment]: #environment
 <!--
-Please describe the language, minimal version and any other details necessary.
+Please describe the environment and any other details necessary.
 -->
 
 ## Schema
