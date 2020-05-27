@@ -8,7 +8,7 @@ It is a combination of logbook, documentation and specification system that acco
 
 It is very useful for guaranteeing engineering best-practices, maintaining transparency into the methodology and easing the often complicated documentation process.
 
-![drawing](/template/.images/7P-Lifecycle.png)
+![drawing](/template/.images/7P-Lifecycle.drawio.svg)
 
 ## File Naming Conventions
 Files from this template should be renamed, where `project` is replaced with the name of the product. I.e. in the Bee project, there would be:
@@ -80,7 +80,7 @@ The deprecation stage of a Product means that it (or one of its constituent part
 
 
 ### Posterity
-We don't want to throw away any work, ever. When Products are deprecated,
+We don't want to throw away any work, ever. When Products are deprecated, we maintain their histories.
 
 ## Component Parts
 
@@ -118,6 +118,7 @@ The detailing of Engineering Specs can vary from project to project (and underly
 This is a real "living document" and should reflect the current state of the software at all times. It is a contract between developers of the project and consumers of the project. Where possible, automation SHOULD be used.
 
 ### Requirements Specs
+<!-- NOTE: This section still requires some more attention -->
 A Requirements Spec is a business-layer document that seeks to use as plain an English as possible for the scope of work in order to completely describe the product.
 
 It can be worked upon throughout the lifecycle of a product, however there are a few concerns:
@@ -135,5 +136,3 @@ The structural model shows how the parts of the product fit together and exist i
 
 #### 3. Behavioral Model
 The behavioral model explains how the system behaves at runtime.
-
-/// RTF / FTF

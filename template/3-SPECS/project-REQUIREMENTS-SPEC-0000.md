@@ -44,6 +44,25 @@ Guidelines for Requirements:
 Short summary of this document.
 -->
 
+
+## Conceptual Model
+[conceptual-model]: #conceptual-model
+<!--
+The conceptual model seeks to define at a high level how the product works.
+-->
+
+## Structural Model
+[structural-model]: #structural-model
+<!--
+The structural model shows how the parts of the product fit together and exist in the larger ecosystem.
+-->
+
+## Behavioral Model
+[behavioral-model]: #behavioral-model
+<!--
+The behavioral model explains how the system behaves at runtime.
+-->
+
 ## Components
 [components]: #components
 <!--

@@ -2,7 +2,9 @@
 ![status](https://img.shields.io/badge/Text%20License-CC%20BY%204.0-yellow.svg)
 
 # This Repository
-There is a complete description of the process to be found in `/template/HOW-TO-SPEC.md`. You should leave this document for others to understand how to contribute.
+There is a complete description of the process to be found in `/template/HOW-TO-SPEC.md`. You should keep that document for others to understand how to contribute.
+
+![graph](/template/images/7P-Lifecycle.drawio.svg)
 
 ## Process
 This repo contains a template for your specifications. Copy the `template` folder to your project repository and rename it to `specifications`. It is absolutely essential that the specs "live" in the same repository as the code, because changes to the code necessitate changes to the specification - and vice versa.
@@ -18,7 +20,7 @@ This process described below shows the evolution of the specifications describin
 ## Tools
 
 ### drawio
-We recommend installing the [drawio extension for VS Code](https://github.com/hediet/vscode-drawio.git). It allows you to edit the diagrams in VS Code, and export them to your repository. Maintaining versions inline with the current state of the specifications.
+We recommend installing the [drawio extension for VS Code](https://github.com/hediet/vscode-drawio.git). It allows you to edit the diagrams in VS Code, and export them to your repository. Maintaining versions inline with the current state of the specifications. For now, consider using the insiders build version of this, because then if you save the diagram as `file.drawio.svg` you can edit it with the plugin & display it in your markdown documents.
 
 ### mdbook
 > Todo: Finalize gh action for creating a mdbook and publishing it. [This workflow from Bee](https://github.com/iotaledger/bee-rfcs/blob/master/.github/workflows/gh-rfcs-mdbook.yml) is a good start, but needs adaptation to 7PEC. It requires a `gh-pages`  branch and there has to be a deployment key on the repo admin panel.
