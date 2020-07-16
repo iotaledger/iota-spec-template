@@ -1,6 +1,6 @@
 # The 7PEC Lifecycle
 
-7PEC is a formalized approach that seeks to follow the needs of software developement and business development, in order to enhance community involvement and pave the way for potential standardisation.
+7PEC is a formalized approach that seeks to follow the needs of software development and business development, in order to enhance community involvement and pave the way for potential standardisation.
 
 It is a combination of logbook, documentation and specification system that accompanies the product throughout its entire lifecycle. It has one purpose:
 
@@ -8,7 +8,7 @@ It is a combination of logbook, documentation and specification system that acco
 
 It is very useful for guaranteeing engineering best-practices, maintaining transparency into the methodology and easing the often complicated documentation process.
 
-![drawing](/template/.images/7P-Lifecycle.drawio.svg)
+![drawing](/template/images/7P-Lifecycle.drawio.svg)
 
 ## File Naming Conventions
 Files from this template should be renamed, where `project` is replaced with the name of the product. I.e. in the Bee project, there would be:
